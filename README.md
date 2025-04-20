@@ -1,4 +1,4 @@
-# 🪨📄✂️ Math Game (C++)
+# 🧮🎲➕ Math Game (C++)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
