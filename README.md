@@ -14,9 +14,13 @@ MathGame is an interactive quiz game that generates random math questions based 
 - Standard C++ library
 
 ## ⚙️ Installation
-- Prerequisites
-A C++ compiler (e.g., MinGW for Windows, GCC for Linux, or Xcode Command Line Tools for macOS)
-- Setps
+### 📦 Prerequisites
+- A C++ compiler:
+  - [MinGW](http://www.mingw.org/) for Windows
+  - GCC for Linux
+  - Xcode Command Line Tools for macOS
+
+### 🧭 Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/FaresSaleemGHub/MathGame.git
