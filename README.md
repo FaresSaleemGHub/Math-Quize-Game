@@ -41,7 +41,7 @@ MathGame is an interactive quiz game that generates random math questions based 
 Users set the number of questions, difficulty level, and operation type. The game generates random questions, evaluates answers, and displays the final result.
 
 ## 🎥 Demo
-Watch the game in action: [https://www.youtube.com/watch?v=lgqJ73aWq-c]
+Watch the game in action: [Youtube](https://www.youtube.com/watch?v=lgqJ73aWq-c)
    
 ## 👤 Author
 Your Name – @FaresSaleemGHub
