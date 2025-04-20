@@ -1,6 +1,8 @@
 # 🧮🎲➕ Math Game (C++)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+---
+
 ## 📄 Description
 MathGame is an interactive quiz game that generates random math questions based on user-defined settings (question level and operation type). It evaluates answers and provides feedback with a color-coded system.
 
