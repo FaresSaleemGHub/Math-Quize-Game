@@ -1,6 +1,6 @@
 # 🧮🎲➕ Math Game (C++)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <br>
-It is Math Game to active the brain and enterrainment.
+It is a Math Game to active the brain and enterrainment.
 
 ---
 
