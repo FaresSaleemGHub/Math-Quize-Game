@@ -25,11 +25,11 @@ MathGame is an interactive quiz game that generates random math questions based 
 ### 🧭 Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FaresSaleemGHub/MathGame.git
+   git clone https://github.com/FaresSaleemGHub/Math-Quize-Game.git
    
 2. Navigate to the project directory:
    ```bash
-   cd MathGame
+   cd Math-Quize-Game
 3. Compile the program:
    ```bash
    g++ -o MathGame MathGame.cpp
